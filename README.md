@@ -1,3 +1,3 @@
 # competitive-data-science
 
-Refer to the Wiki page.
+For Notes, please refer to the [*Wiki*](https://github.com/arnabbiswas1/competitive-data-science/wiki) page.
